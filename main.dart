@@ -169,7 +169,7 @@ void starttask1() {
   if (playAgain == "yes") {
     starttask1();
   } else {
-    print("goaway");
+    print("getlost");
   }
 }
 
